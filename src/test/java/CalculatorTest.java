@@ -15,7 +15,7 @@
   * Author: Yakup Asmaidy
   */
  public class CalculatorTest {
- 
+   
      // Introducing a high-severity issue by using a system property insecurely
      public String insecureMethod() {
          // This method uses a system property in a way that can be insecure
