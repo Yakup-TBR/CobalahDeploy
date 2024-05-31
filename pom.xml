@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Yakup-TBR/CobaDeploy</url>
+      <url>https://maven.pkg.github.com/Yakup-TBR/CobalahDeploy</url>
     </repository>
   </distributionManagement>
   
